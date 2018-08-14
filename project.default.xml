@@ -1,0 +1,86 @@
+<application>
+  <component name="ProjectManager">
+    <defaultProject>
+      <component name="GradleLocalSettings">
+        <option name="projectSyncType">
+          <map>
+            <entry key="$USER_HOME$/Documents/git-repos/adhoc-development/shapeless-examples" value="PREVIEW" />
+            <entry key="$USER_HOME$/Documents/git-repos/quantexa/QuantexaExplorer" value="PREVIEW" />
+            <entry key="$USER_HOME$/Documents/git-repos/quantexa/TestTrainingModelAnswers" value="PREVIEW" />
+            <entry key="$USER_HOME$/Documents/git-repos/quantexa/analyst-community/QuantexaETL" value="PREVIEW" />
+            <entry key="$USER_HOME$/Documents/git-repos/quantexa/analyst-community/analytical-sandbox" value="PREVIEW" />
+            <entry key="$USER_HOME$/Documents/git-repos/quantexa/analyst-community/analytical-utils" value="PREVIEW" />
+            <entry key="$USER_HOME$/Source/analytical-utils" value="PREVIEW" />
+            <entry key="$USER_HOME$/Source/project-example" value="PREVIEW" />
+          </map>
+        </option>
+      </component>
+      <component name="NodePackageJsonFileManager">
+        <packageJsonPaths />
+      </component>
+      <component name="PropertiesComponent">
+        <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+        <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+        <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.scala.settings.ScalaProjectSettingsConfigurable" />
+      </component>
+      <component name="RunManager">
+        <configuration default="true" type="TestNG" factoryName="TestNG">
+          <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+          <option name="ALTERNATIVE_JRE_PATH" />
+          <option name="SUITE_NAME" />
+          <option name="PACKAGE_NAME" />
+          <option name="MAIN_CLASS_NAME" />
+          <option name="METHOD_NAME" />
+          <option name="GROUP_NAME" />
+          <option name="TEST_OBJECT" value="CLASS" />
+          <option name="VM_PARAMETERS" value="-ea" />
+          <option name="PARAMETERS" />
+          <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+          <option name="OUTPUT_DIRECTORY" />
+          <option name="PASS_PARENT_ENVS" value="true" />
+          <option name="TEST_SEARCH_SCOPE">
+            <value defaultName="singleModule" />
+          </option>
+          <option name="USE_DEFAULT_REPORTERS" value="false" />
+          <option name="PROPERTIES_FILE" />
+          <properties />
+          <listeners />
+        </configuration>
+        <configuration default="true" type="Application" factoryName="Application">
+          <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+          <method v="2">
+            <option name="Make" enabled="true" />
+          </method>
+        </configuration>
+        <configuration default="true" type="JUnit" factoryName="JUnit">
+          <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+          <method v="2">
+            <option name="Make" enabled="true" />
+          </method>
+        </configuration>
+      </component>
+      <component name="SbtLocalSettings">
+        <option name="projectSyncType">
+          <map>
+            <entry key="$USER_HOME$/Desktop/Lau/Ex2_Accounts" value="PREVIEW" />
+            <entry key="$USER_HOME$/Source/ad4s" value="PREVIEW" />
+          </map>
+        </option>
+      </component>
+      <component name="ScalaProjectSettings">
+        <option name="intInjectionMapping">
+          <map>
+            <entry key="xml" value="XML" />
+          </map>
+        </option>
+        <option name="projectViewHighlighting" value="true" />
+      </component>
+      <component name="ScalaSbtSettings">
+        <option name="customVMPath" />
+      </component>
+      <component name="VcsContentAnnotationSettings">
+        <option name="myLimit" value="2678400000" />
+      </component>
+    </defaultProject>
+  </component>
+</application>

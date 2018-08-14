@@ -1,0 +1,10 @@
+<application>
+  <component name="CodeInsightSettings">
+    <option name="SHOW_PARAMETER_NAME_HINTS_ON_COMPLETION" value="true" />
+    <option name="PARAMETER_INFO_DELAY" value="500" />
+    <option name="AUTO_POPUP_JAVADOC_INFO" value="true" />
+    <option name="JAVADOC_INFO_DELAY" value="500" />
+    <EXCLUDED_PACKAGE NAME="com.quantexa.analyticalutils.spark.core.SimpleScoringContext" />
+    <EXCLUDED_PACKAGE NAME="org.scalatest.Inside" />
+  </component>
+</application>

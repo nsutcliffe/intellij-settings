@@ -1,0 +1,7 @@
+<templateSet group="scala">
+  <template name="=&gt;" value="⇨" description="" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="SCALA" value="true" />
+    </context>
+  </template>
+</templateSet>
