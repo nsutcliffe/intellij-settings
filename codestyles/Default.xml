@@ -1,1 +1,6 @@
-<code_scheme name="Default" version="173" />
+<code_scheme name="Default" version="173">
+  <ScalaCodeStyleSettings>
+    <option name="SD_BLANK_LINE_AFTER_PARAMETERS_COMMENTS" value="true" />
+    <option name="SD_BLANK_LINE_BEFORE_PARAMETERS" value="true" />
+  </ScalaCodeStyleSettings>
+</code_scheme>
