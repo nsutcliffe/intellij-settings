@@ -6,6 +6,22 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>GoTo</Description>
+          <Count>5</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Recompile '...merDateFacts3.scala'">
+        <Item>
+          <IdeaActionID>Compile</IdeaActionID>
+          <ShortCut>'Ctrl+Shift+F9'</ShortCut>
+          <Description>Recompile '...merDateFacts3.scala'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Terminal">
+        <Item>
+          <IdeaActionID>ActivateTerminalToolWindow</IdeaActionID>
+          <ShortCut>'Alt+F12'</ShortCut>
+          <Description>Terminal</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
