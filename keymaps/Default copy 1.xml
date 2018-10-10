@@ -1,0 +1,6 @@
+<keymap version="1" name="Default copy 1" parent="$default">
+  <action id="SelectNextOccurrence">
+    <keyboard-shortcut first-keystroke="alt j" />
+    <mouse-shortcut keystroke="shift control alt button142" />
+  </action>
+</keymap>

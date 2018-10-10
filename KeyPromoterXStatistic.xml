@@ -1,12 +1,28 @@
 <application>
   <component name="KeyPromoterXStatistic">
     <option name="statistics">
+      <Statistic Action="Add Selection for Next Occurrence">
+        <Item>
+          <IdeaActionID>SelectNextOccurrence</IdeaActionID>
+          <ShortCut>'Alt+J' or 'Ctrl+Alt+Shift+Wheel down'</ShortCut>
+          <Description>Add Selection for Next Occurrence</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Back">
+        <Item>
+          <IdeaActionID>Back</IdeaActionID>
+          <ShortCut>'Ctrl+Alt+Left' or 'Button4 Click'</ShortCut>
+          <Description>Back</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Close">
         <Item>
           <IdeaActionID>CloseContent</IdeaActionID>
           <ShortCut>'Ctrl+F4'</ShortCut>
           <Description>Close</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Copy">
@@ -30,7 +46,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>GoTo</Description>
-          <Count>388</Count>
+          <Count>412</Count>
         </Item>
       </Statistic>
       <Statistic Action="Hide All Windows">
