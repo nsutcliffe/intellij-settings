@@ -5,7 +5,9 @@
     <option name="highlightColor" value="80cbc4" />
     <option name="isMaterialDesign" value="false" />
     <option name="accentColor" value="FF9800" />
+    <option name="useMaterialIcons" value="false" />
     <option name="isCompactStatusBar" value="true" />
+    <option name="useMaterialFont" value="false" />
     <option name="compactDropdowns" value="true" />
     <option name="userId" value="34cd6915:163fe51e63a:-8000" />
     <option name="allowDataCollection" value="true" />
