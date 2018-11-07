@@ -118,7 +118,7 @@
           <IdeaActionID>ActivateProjectToolWindow</IdeaActionID>
           <ShortCut>'Alt+1'</ShortCut>
           <Description>Project</Description>
-          <Count>15</Count>
+          <Count>16</Count>
         </Item>
       </Statistic>
       <Statistic Action="Recompile '...OnNetworkTest.scala'">
@@ -142,6 +142,14 @@
           <IdeaActionID>Compile</IdeaActionID>
           <ShortCut>'Ctrl+Shift+F9'</ShortCut>
           <Description>Recompile '...mersOnNetwork.scala'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Refresh">
+        <Item>
+          <IdeaActionID>Vcs.Log.Refresh</IdeaActionID>
+          <ShortCut>'Ctrl+F5'</ShortCut>
+          <Description>Refresh</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
